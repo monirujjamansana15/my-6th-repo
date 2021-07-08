@@ -176,3 +176,16 @@ button:hover{
 #middle-btn{
     margin-top: 60px;
 }
+.form-fill{
+    background-image: url(images/Frame-01.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 20px;
+    padding-bottom: 440px;
+}
+form{
+    margin: 20px 60px;
+    width: 850px;
+    height: 200px;
+    padding-bottom: 520px;
+}
